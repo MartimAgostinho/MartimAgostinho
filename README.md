@@ -2,7 +2,6 @@
 
 #### I'm Martim Agostinho 
   - Currently studying Electrical and Computers Engineering at Nova SST
-  - Learning Java
   - E-mail -> martim.d.agostinho@gmail.com
 <!--
 **MartimAgostinho/MartimAgostinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
